@@ -2,11 +2,11 @@
 
 https://docs.microsoft.com/en-us/sql/relational-databases/blob/binary-large-object-blob-data-sql-server?view=sql-server-ver15
 
-## Local
+## Simple
 
 Store your file within your table using
-- varchar
-- varchar(MAX)
+- Save path to filename - varchar         
+- Save the binary of the file - varbinary(MAX)   
 
 ## FILESTREAM (SQL Server)
 

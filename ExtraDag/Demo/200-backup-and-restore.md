@@ -58,6 +58,19 @@ It can be helpful to use the powershell script at *000-Powershell.md*
 
 ## Solution
 
+Both files updates:
+- create database
+- backup database
+
+The log file updates:
+- create table
+- insert into
+- delete
+- alter table
+
+Nothing happens
+- select
+
 ## Restore previous point in time
 
 Create a new database as last example with three products
